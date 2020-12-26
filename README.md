@@ -7,7 +7,7 @@ Also i used [Python-CoinMarketCap](https://pypi.org/project/python-coinmarketcap
 
 ## Usage
 
-For install packages
+For install packages:
 ```
 pip install python-coinmarketcap
 pip install python-dotenv
@@ -18,7 +18,7 @@ You’ll first need to set up a new account on [ifttt.com](https://ifttt.com/hom
 WEBHOOK_URL_KEY = your ifttt url key
 ```
 
-And for use api you need sign up at [pro.coinmarketcap.com.](https://pro.coinmarketcap.com/)
+For use api you need sign up at [pro.coinmarketcap.com.](https://pro.coinmarketcap.com/)
 ```
 API_KEY = your api key
 ```
